@@ -1,0 +1,35 @@
+#BS {font-family: 'Nosifer', cursive;
+font-size: 40pt;
+
+
+}
+
+#Buy {font-family: 'Nosifer', cursive;
+font-size: 40pt
+
+}
+
+#Why {font-family: 'Nosifer', cursive;
+font-size: 40pt
+
+}
+
+img {
+	width: 80px;
+	height: 200px;
+
+}
+
+body {
+	text-align: center;
+	background-color: black;
+	color:white;
+	border-style: solid;
+	border-style: white;
+}
+p {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20pt
+}
+
